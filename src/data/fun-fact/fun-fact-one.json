@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "iconClass": "pe-7s-timer",
+    "countNum": 10,
+    "title": "Average Design Time"
+  },
+  {
+    "id": "2",
+    "iconClass": "pe-7s-ticket",
+    "countNum": 30,
+    "title": "Subscription days"
+  },
+  {
+    "id": "3",
+    "iconClass": "pe-7s-download",
+    "countNum": 750,
+    "title": "Downloads"
+  },
+  {
+    "id": "4",
+    "iconClass": "pe-7s-smile",
+    "countNum": 22,
+    "title": "Happy clients"
+  }
+]

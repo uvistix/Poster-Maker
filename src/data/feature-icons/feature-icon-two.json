@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/icon-img/innovate.png",
+    "title": "Innovate",
+    "subtitle": "Fuel your creativity with our intuitive platform."
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/icon-img/showcase.png",
+    "title": "Showcase",
+    "subtitle": "Effortlessly display your products into captivating digital posters."
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/icon-img/engage.png",
+    "title": "Engage",
+    "subtitle": "Elevate your promotional strategy with your clients through regular updates."
+  }
+]

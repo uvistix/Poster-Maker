@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Digital Posters",
+    "subtitle": "Customize & Share Instantly",
+    "image": "/assets/img/slider/h1.png",
+    "url": "/login-register"
+  },
+  {
+    "id": 2,
+    "title": "Promotional Excellence",
+    "subtitle": "Boost Sales with Visual Impact",
+    "image": "/assets/img/slider/h2.png",
+    "url": "/login-register"
+  },
+  {
+    "id": 3,
+    "title": "Dynamic Marketing",
+    "subtitle": "Maximize Your Business Reach",
+   "image": "/assets/img/slider/h4.png",
+    "url": "/login-register"
+  },
+  {
+    "id": 4,
+    "title": "Visual Impact",
+    "subtitle": "Elevate Your Brand Presence",
+   "image": "/assets/img/slider/h3.png",
+    "url": "/login-register"
+  }
+]

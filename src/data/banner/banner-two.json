@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/img/banner/a1.png",
+    "link": "/products"
+  },
+  {
+    "id": "2",
+    "image": "/assets/img/banner/a2.png",
+    "link": "/products"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/icon-img/easy-customization.png",
+    "title": "Easy Customization",
+    "subtitle": "Flexibility & Ease"
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/icon-img/effortless-updates.png",
+    "title": "Effortless Updates",
+    "subtitle": "Update with Ease"
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/icon-img/subscriber-exclusives.png",
+    "title": "Subscriber Exclusives",
+    "subtitle": "Premium Subscriptions"
+  },
+  {
+    "id": 4,
+    "image": "/assets/img/icon-img/support-24*7.png",
+    "title": "Support 24/7",
+    "subtitle": "All time support"
+  }
+]
